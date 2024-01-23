@@ -1,1 +1,1 @@
-# 30-Mini-Javascript-Projekts
+# Javascript-Projekts
