@@ -12,4 +12,4 @@ The Age-calculator is a simple JavaScript application that allows users to calcu
 | ***Display Results*** | The calculated age is displayed in years, months, and days.|
 
 ## Preview
-![Age-Calculator](age-calculator/age-calculator.gif)
+![Age-Calculator](https://github.com/nguyetha79/Javascript-Projects/blob/main/age-calculator/age-calculator.gif)
