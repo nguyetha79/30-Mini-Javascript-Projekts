@@ -10,3 +10,4 @@ The Background Change Effect is a lightweight JavaScript project that adds dynam
 |***Image Swapping*** | Dynamically change the background image based on user interactions.|
 
 ## Preview
+![Background changed effect](https://github.com/nguyetha79/Javascript-Projects/blob/main/background-change-effect/bgr-change-effect.gif)
