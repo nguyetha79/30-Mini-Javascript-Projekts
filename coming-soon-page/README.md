@@ -10,4 +10,4 @@ The Coming Soon Webpage is a temporary landing page that announces an upcoming p
 | ***Eye-Catching Design*** | Visually appealing with a captivating background image or canvas by using subtle animations for rocket.|
 
 ## Preview
-![Coming soon page]()
+![Coming soon page](https://github.com/nguyetha79/Javascript-Projects/blob/main/coming-soon-page/images/coming-soon-page.gif)
