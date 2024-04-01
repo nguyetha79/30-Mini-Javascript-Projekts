@@ -9,4 +9,6 @@ The Animated Range Slider is a dynamic and visually appealing user interface com
 |:------------------|:----------|
 | ***Interactive Slider*** | Users can slide the range handle to select a value.|
 | ***Animated Teardrop Popup*** | A teardrop-shaped number display moves  as the slider is adjusted.|
+
 ## Preview
+![Animated Range Slider](https://github.com/nguyetha79/Javascript-Projects/blob/main/animated-range-slider/animated-range-slider.gif)
