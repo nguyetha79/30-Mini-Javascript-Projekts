@@ -9,4 +9,4 @@ The Crypto-Currency-Website is a web application designed to provide real-time i
 | ***Real-Time Price Tracking*** | Get up-to-date prices for popular cryptocurrencies such as Bitcoin (BTC), Ethereum (ETH), and more.|
 
 ## Preview
-![Crytocurrency](cryptocurrency-website/images/cryptocurrency.png)
+![Crytocurrency](https://github.com/nguyetha79/Javascript-Projects/blob/main/cryptocurrency-website/images/cryptocurrency.png)
