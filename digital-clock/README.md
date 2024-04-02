@@ -10,4 +10,4 @@ This simple JavaScript project displays the current time in a digital format (HH
 | ***Clean and Minimal Design*** | The digital clock has a minimalistic, elegant design.|
 
 ## Preview
-![digital clock](https://github.com/nguyetha79/Javascript-Projects/blob/main/dark-mode-app/images/theme-website.gif)
+![digital clock](https://github.com/nguyetha79/Javascript-Projects/blob/main/digital-clock/digital-clock.gif)
