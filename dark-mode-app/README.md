@@ -9,4 +9,4 @@ This project aims to enhance user experience by providing a seamless transition 
 | ***Dynamic Theme Switching*** | Users can effortlessly toggle between dark and light modes.|
 
 ## Preview
-![dark/light mode website](cryptocurrency-website/images/cryptocurrency.png)
+![dark/light mode website](https://github.com/nguyetha79/Javascript-Projects/blob/main/dark-mode-app/images/theme-website.gif)
