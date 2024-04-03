@@ -8,13 +8,13 @@ This repository contains 30 mini JavaScript projects that I've created to practi
 
 Here's a brief overview of the projects included in this repository:
 
-1. [**Age Calculator**](age-calculator\README.md)
+1. [**Age Calculator**](age-calculator/README.md)
 
-2. [**Animated Range Slider**](animated-range-slider\README.md)
+2. [**Animated Range Slider**](animated-range-slider/README.md)
 
-3. [**Background Change Effect**](background-change-effect\README.md)
+3. [**Background Change Effect**](background-change-effect/README.md)
 
-4. [**Calculator App**](calculator-app\README.md)
+4. [**Calculator App**](calculator-app/README.md)
 
 5. [**Circular Progress Bar**](circular-progress-bar\README.md)
 
