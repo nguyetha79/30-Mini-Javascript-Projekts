@@ -10,4 +10,4 @@ The Mini Calendar is a simple JavaScript application that displays the current d
 | ***Real-Time Updates*** | As the date changes, the calendar dynamically updates to reflect the current day, month, and year.|
 
 ## Preview
-![Horizontal-Scrolling-Image-Slider](https://github.com/nguyetha79/Javascript-Projects/blob/main/horizontal-scrolling/images/image-slider.gif)
+![mini calendar](https://github.com/nguyetha79/Javascript-Projects/blob/main/mini-calendar/mini-calendar.png)
