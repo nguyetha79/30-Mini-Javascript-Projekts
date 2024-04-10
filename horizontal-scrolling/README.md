@@ -10,4 +10,4 @@ This project demonstrates how to create a simple horizontal-scrolling image slid
 | ***Mouse Wheel Navigation*** | Users can scroll through images using the mouse wheel.|
 
 ## Preview
-![Horizontal-Scrolling-Image-Slider]()
+![Horizontal-Scrolling-Image-Slider](https://github.com/nguyetha79/Javascript-Projects/blob/main/horizontal-scrolling/images/image-slider.gif)
