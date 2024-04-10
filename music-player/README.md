@@ -10,4 +10,4 @@ This is a web application developed using HTML, CSS, and JavaScript. It provides
 | ***Playback Control*** | Easily manage song playback with play, pause, and stop buttons.|
 
 ## Preview
-![music player](https://github.com/nguyetha79/Javascript-Projects/blob/main/digital-clock/digital-clock.gif)
+![music player](https://github.com/nguyetha79/Javascript-Projects/blob/main/music-player/music-player.gif)
