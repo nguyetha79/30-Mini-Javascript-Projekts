@@ -3,23 +3,23 @@ let msg = document.getElementById("msg");
 let strength = document.getElementById("strength");
 
 pass.addEventListener("input", () => {
-  if (pass.value.length > 0) {
-    msg.style.display = "block";
-  } else {
-    msg.style.display = "none";
+  const password = pass.value;
+  let strengthLevel = "weak";
+  let borderColor = "#ff5925";
+  let msgColor = "#ff5925";
+
+  if (password.length >= 8 && /[a-z]/.test(password) && /[A-Z]/.test(password) && /\d/.test(password) && /[!@#$%^&*()_+\-=[\]{};':"\\|,.<>/?]/.test(password)) {
+    strengthLevel = "strong";
+    borderColor = "#26d730";
+    msgColor = "#26d730";
+  } else if (password.length >= 4) {
+    strengthLevel = "medium";
+    borderColor = "yellow";
+    msgColor = "yellow";
   }
 
-  if (pass.value.length < 4) {
-    strength.innerHTML = "weak";
-    pass.style.borderColor = "#ff5925";
-    msg.style.color = "#ff5925"
-  } else if (pass.value.length >= 4 && pass.value.length < 8) {
-    strength.innerHTML = "medium";
-    pass.style.borderColor = "yellow";
-    msg.style.color = "yellow"
-  } else if (pass.value.length >= 8) {
-    strength.innerHTML = "strong";
-    pass.style.borderColor = "#26d730";
-    msg.style.color = "#26d730"
-  }
+  strength.innerHTML = strengthLevel;
+  pass.style.borderColor = borderColor;
+  msg.style.display = "block";
+  msg.style.color = msgColor;
 });
