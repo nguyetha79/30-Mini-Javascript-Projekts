@@ -11,5 +11,5 @@ This project aims to create a password strength checker using HTML, CSS, and Jav
     - Special character
 
 ## Preview
-![Password Strength Checker]()
+![Password Strength Checker](https://github.com/nguyetha79/Javascript-Projects/blob/main/password-strength-checker/password-strength-checker.gif)
 
