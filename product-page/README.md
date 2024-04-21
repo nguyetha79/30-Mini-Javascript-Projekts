@@ -12,5 +12,5 @@ This is a web application that allows users to explore products. It provides an 
 | ***View Alternate Images*** | Users can see additional images of the product to make sure of their choice|
 
 ## Preview
-![Product Page]()
+![Product Page](https://github.com/nguyetha79/Javascript-Projects/blob/main/product-page/images/product-page.gif)
 
