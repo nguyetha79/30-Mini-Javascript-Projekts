@@ -10,5 +10,5 @@ The Price Range Slider is a user-friendly component that allows users to select 
 | ***Manual Input*** | Alternatively, users can input minimum and maximum price values directly.|
 
 ## Preview
-![Price Range Slider]()
+![Price Range Slider](https://github.com/nguyetha79/Javascript-Projects/blob/main/price-range-slider/price-range-slider.gif)
 
