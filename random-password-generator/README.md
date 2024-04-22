@@ -9,5 +9,5 @@
 | ***Random Combinations*** | The app generates passwords with varying levels of complexity, including lowercase letters, uppercase letters, numbers, and special characters.|
 
 ## Preview
-![Random Password Generator]()
+![Random Password Generator](https://github.com/nguyetha79/Javascript-Projects/blob/main/random-password-generator/images/random-password-generator.gif)
 
