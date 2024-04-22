@@ -10,5 +10,5 @@ The Weather App is a web application that provides users with current weather in
 | ***Location-Based*** | Allow users to input a location (city, zip code, or coordinates) and retrieve weather information for that specific area.|
 
 ## Preview
-![weather app]()
+![weather app](https://github.com/nguyetha79/Javascript-Projects/blob/main/weather-app/images/weather-app.gif)
 
