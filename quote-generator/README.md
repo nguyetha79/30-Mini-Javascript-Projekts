@@ -10,5 +10,5 @@
 | ***Share on Twitter*** | Users can share their favorite quotes on twitter account|
 
 ## Preview
-![Quote Generator]()
+![Quote Generator](https://github.com/nguyetha79/Javascript-Projects/blob/main/quote-generator/quote-generator.gif)
 
