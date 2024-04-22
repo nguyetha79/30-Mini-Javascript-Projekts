@@ -11,5 +11,5 @@ The Stopwatch App is a simple web application that provides users with a stopwat
 | ***Accurate Timing:*** | Precisely measure time down to milliseconds for precise tracking.|
 
 ## Preview
-![Stopwatch App]()
+![Stopwatch App](https://github.com/nguyetha79/Javascript-Projects/blob/main/stopwatch-app/images/stopwatch-app.gif)
 
