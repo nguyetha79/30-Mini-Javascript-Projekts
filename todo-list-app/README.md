@@ -11,5 +11,5 @@ The To-Do App is a web application designed to help users manage their tasks and
 | ***Local Storage*** | Tasks are stored locally using the browser's localStorage API, allowing users to access their to-do lists even after closing or refreshing the page.|
 
 ## Preview
-![todo app]()
+![todo app](https://github.com/nguyetha79/Javascript-Projects/blob/main/todo-list-app/images/todo-app.gif)
 
