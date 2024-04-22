@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains 30 mini JavaScript projects that I've created to practice and improve my coding skills. Each project is independent and covers various concepts and technologies related to JavaScript.
+This repository contains different mini JavaScript projects that I've created to practice and improve my coding skills. Each project is independent and covers various concepts and technologies related to JavaScript.
 
 ## Projects
 
@@ -58,15 +58,11 @@ Here's a brief overview of the projects included in this repository:
 
 25. [**Stop Watch App**](stopwatch-app/README.md)
 
-26. [**Subscribe Form**](subscribe-form/README.md)
+26. [**Toast Notification**](toast-notification/README.md)
 
-27. [**Text To Speech Convertor**](text-to-speech-converter/README.md)
+27. [**To-Do List App**](todo-list-app/README.md)
 
-28. [**Toast Notification**](toast-notification/README.md)
-
-29. [**To-Do List App**](todo-list-app/README.md)
-
-30. [**Weather App**](weather-app/README.md)
+28. [**Weather App**](weather-app/README.md)
 
 
 ## Technologies Used
