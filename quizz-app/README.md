@@ -10,5 +10,5 @@ This project is designed to test users’ knowledge on various topics through a 
 | ***Score Tracking*** | The app keeps track of your score as you progress through the quiz.|
 
 ## Preview
-![Quiz App]()
+![Quiz App](https://github.com/nguyetha79/Javascript-Projects/blob/main/quizz-app/quizz-app.gif)
 
