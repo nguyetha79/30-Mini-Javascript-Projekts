@@ -5,5 +5,5 @@ The Toast Notification project is a lightweight and customizable web component f
 
 
 ## Preview
-![Toast Noti]()
+![Toast Noti](https://github.com/nguyetha79/Javascript-Projects/blob/main/toast-notification/toast-noti.gif)
 
