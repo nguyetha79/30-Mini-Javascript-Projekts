@@ -11,5 +11,5 @@ The Sticky Note App is a simple web application designed to help users organize 
 | ***Local Storage*** | Your notes are saved locally using the browser's localStorage, ensuring that your data persists even if you close the browser or refresh the page.|
 
 ## Preview
-![Sticky Note App]()
+![Sticky Note App](https://github.com/nguyetha79/Javascript-Projects/blob/main/sticky-note-app/sticky-note-app.gif)
 
